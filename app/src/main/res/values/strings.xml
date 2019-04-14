@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="zeroOn">Zero ON</string>
+    <string name="zeroOff">Zero OFF</string>
+</resources>
