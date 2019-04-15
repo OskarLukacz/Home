@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
                 case "Three ON"   : msg.put("3", "o"); break;
                 case "Three OFF"  : msg.put("3", "f"); break;
                 case "Toggle All" : msg.put("A", "A"); break;
+                case "Ping"       : msg.put("ping", "Android Client"); break;
             }
 
 
